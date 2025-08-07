@@ -2,18 +2,18 @@
 
 На сервере присутствует огромное количество самописных плагинов, которые разнообразят вашу игру. Ознакомьтесь со всеми фишками на этой странице!
 
-{% content-ref url="palochka-otladki-i-3d-modeli.md" %}
-[palochka-otladki-i-3d-modeli.md](palochka-otladki-i-3d-modeli.md)
+{% content-ref url="debug-stick.md" %}
+[debug-stick.md](debug-stick.md)
 {% endcontent-ref %}
 
-{% content-ref url="schastlivye-gasty.md" %}
-[schastlivye-gasty.md](schastlivye-gasty.md)
+{% content-ref url="happy-ghast.md" %}
+[happy-ghast.md](happy-ghast.md)
 {% endcontent-ref %}
 
-{% content-ref url="stesh-klady.md" %}
-[stesh-klady.md](stesh-klady.md)
+{% content-ref url="stesh.md" %}
+[stesh.md](stesh.md)
 {% endcontent-ref %}
 
-{% content-ref url="kalyan.md" %}
-[kalyan.md](kalyan.md)
+{% content-ref url="hookah.md" %}
+[hookah.md](hookah.md)
 {% endcontent-ref %}

@@ -14,17 +14,13 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 И еще 1...
 
 
 
 {% tabs %}
 {% tab title="Разработчики сайта" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><div><figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div></td><td>Создатель</td><td>Фронтенд-разработчик</td><td>Продюсер</td><td>Тестер</td></tr><tr><td><div><figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div></td><td>Бекенд-разработчик</td><td>Тестер</td><td></td><td></td></tr><tr><td><div><figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div></td><td>Основной дизайнер</td><td>Тестер</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><div><figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div></td><td>Создатель</td><td>Фронтенд-разработчик</td><td>Продюсер</td><td>Тестер</td></tr><tr><td><div><figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div></td><td>Бекенд-разработчик</td><td>Тестер</td><td></td><td></td></tr><tr><td><div><figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div></td><td>Основной дизайнер</td><td>Тестер</td><td></td><td></td></tr></tbody></table>
 
 
 {% endtab %}
