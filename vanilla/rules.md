@@ -88,7 +88,7 @@
 * AutoAttack
 * Кликеры
 * Интерпретации чит-функции
-* Принтер мод (дополнение к лайтматике)
+* Принтер мод и EasyPlace (дополнения к лайтматике)
 * BedrockMiner
 * LavaClear&#x20;
 * Librarian Trade Finder
