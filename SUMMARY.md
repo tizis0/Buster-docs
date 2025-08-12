@@ -13,6 +13,8 @@
   * [🎨 Цветной никнейм](vanilla/donate/colored-name.md)
 * [📃 Правила](vanilla/rules.md)
 * [🔮 Фишки сервера](vanilla/features/README.md)
+  * [🍺 Пивоварение](vanilla/features/pivovarenie.md)
+  * [📀 Диски с музыкой](vanilla/features/diski-s-muzykoi.md)
   * [🪽 Объединение элитр](vanilla/features/obedinenie-elitr.md)
   * [💬 Чат](vanilla/features/chat/README.md)
     * [🤖 BusterGPT](vanilla/features/chat/bustergpt.md)
